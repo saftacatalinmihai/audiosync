@@ -25,3 +25,5 @@ License
 Dual licensed under the MIT or GPL Version 2 licenses.  
 MIT License: http://creativecommons.org/licenses/MIT/  
 GPL 2.0 license: http://creativecommons.org/licenses/GPL/2.0/
+
+https://www.codeship.io/projects/35708350-23a8-0131-a53c-2ab15a461804/status
